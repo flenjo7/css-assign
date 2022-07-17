@@ -1,0 +1,9 @@
+body{
+    background-color:dodgerblue;
+}
+ul{
+    list-style-type: none;
+}
+header{
+    display:inline-flex;
+}
